@@ -1,0 +1,21 @@
+body{
+  padding-left: 15px;
+}
+
+h1 a, h2 a{
+  color: green;
+  font-family: 'Lobster';
+}
+
+.pheader{
+  padding: 20px 20px 20px 40px;
+  background-color: #C25100;
+}
+
+.pheader h1 a{
+  color: #093a09;
+}
+
+.post{
+  background-color: #95c395;
+}
